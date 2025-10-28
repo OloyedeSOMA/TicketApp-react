@@ -14,9 +14,7 @@ Live: https://ticket-app-react-one.vercel.app/
 - Mobile friendly
 
 ---
-## Login Credentials 
-  email: test@gmail.com
-  password: abc123
+
 
 ## Tech Stack
 
